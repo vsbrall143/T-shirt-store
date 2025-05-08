@@ -48,9 +48,7 @@ JWT for Authentication
 Razorpay API for Payments
 
 🗂️ Project Structure
-pgsql
-Copy
-Edit
+ 
 ecommerce-app/
 ├── backend/
 │   ├── controllers/
@@ -65,6 +63,7 @@ ecommerce-app/
 ├── .env
 ├── package.json
 └── README.md
+
 ⚙️ Installation
 Prerequisites
 Node.js and npm installed
